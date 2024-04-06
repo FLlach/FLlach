@@ -1,5 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 # FLlach
       :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.     Hola!, Mi nombre es Felipe Llach Richmond, estudiante de Ingeniería Civil
      =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.    Computacional en la Universidad de O'higgins, Rancagua, Chile, apasionado
@@ -14,7 +12,7 @@
     .*@@@@@@@@       =@@@@@@@@@@@@@@@@@@@@@=     frameworks and new tools that further enhance the development of applications
     .*@@@@@@@@       =@@@@@@*::::::::::::.       to achieve a better productivity and QoL of the people.
     .*@@@@@@@@       =@@@@@@=                    
-    .*@@@@@@@@       =@@@@@@=                    
+    .*@@@@@@@@       =@@@@@@=   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)                 
     .*@@@@@@@@       =@@@@@@=                    
     .*@@@@@@@@       =@@@@@@=                    
     .*@@@@@@@@       =@@@@@@=                    
