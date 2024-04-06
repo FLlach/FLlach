@@ -27,26 +27,46 @@
       -#@@@@@@@@@@@@@@@@@%+.                     
 
 
-## Actualmente manejo:
-+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
-+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=gulp)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
-+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+# Sobre mi / About Me
 
-## Contacto:
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+<p>Mis <em>habilidades</em> se concentran en las siguientes áreas:</p>
+<p> My <em>skills</em> focus on the following areas:</p>
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+<section align="center">
+<h2> Lenguajes/Lenguages </h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,css,sass,java">
+</a>
+</section>
+<section align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,c,cs,py">
+</a>
+</section>
+
+
+<section align="center">
+<h2> Herramientas/Tools </h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=notion,git,gulp,latex">
+</a>
+</section>
+
+<section align="center">
+<h2> Frameworks </h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=anaconda,eclipse,nodejs,npm">
+</a>
+</section>
+
+<section align="center">
+<h2> Programas/Programs </h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,blender,figma,ai,ps,matlab">
+</a>
+</section>
+
+### ¡Contactame!/¡Contact Me!:
+<a href="mailto:f.ll.richmond@gmail.com"> [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
+<a href="www.linkedin.com/in/felipe-llach">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+<a href=https://github.com/FLlach>[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</a>
