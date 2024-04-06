@@ -12,7 +12,7 @@
     .*@@@@@@@@       =@@@@@@@@@@@@@@@@@@@@@=     frameworks and new tools that further enhance the development of applications
     .*@@@@@@@@       =@@@@@@*::::::::::::.       to achieve a better productivity and QoL of the people.
     .*@@@@@@@@       =@@@@@@=                    
-    .*@@@@@@@@       =@@@@@@=   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)                 
+    .*@@@@@@@@       =@@@@@@=             
     .*@@@@@@@@       =@@@@@@=                    
     .*@@@@@@@@       =@@@@@@=                    
     .*@@@@@@@@       =@@@@@@=                    
@@ -26,6 +26,27 @@
      +@@@@@@@@@@@@@@@@@@@@@%:                    
       -#@@@@@@@@@@@@@@@@@%+.                     
 
-   
 
-  
+## Actualmente manejo:
++[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
++[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=gulp)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
++[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+## Contacto:
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
