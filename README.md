@@ -67,6 +67,6 @@
 </section>
 
 ### ¡Contactame!/¡Contact Me!:
-<a href="mailto:f.ll.richmond@gmail.com"> [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
-<a href="www.linkedin.com/in/felipe-llach">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-<a href=https://github.com/FLlach>[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</a>
+<a href=#> [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:f.ll.richmond@gmail.com)</a>
+<a href=#>[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/felipe-llach)
+<a href=#>[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/FLlach)</a>
