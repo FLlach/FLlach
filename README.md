@@ -60,7 +60,7 @@
 </section>
 
 <section align="center">
-<h2> Programas/Programs </h2>
+<h2> Programas/Apps </h2>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=vscode,blender,figma,ai,ps,matlab">
 </a>
