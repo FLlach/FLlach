@@ -4,7 +4,6 @@ Hola!, Mi nombre es Felipe Llach Richmond, estudiante de Ingeniería Civil Compu
 
 Hi!, My name is Felipe Llach Richmond, Computer Science and Engineering student at the UOH, Rancagua, Chile, passionate about learning programming lenguages, frameworks and new tools that further enhance the development of applications to achieve a better productivity and QoL of the people.
 
-![FLlach estadisticas GitHub](https://github-readme-stats.vercel.app/api?username=FLlach&show_icons=true&theme=transparent)   
 
 
 
@@ -51,3 +50,5 @@ Hi!, My name is Felipe Llach Richmond, Computer Science and Engineering student 
 <a href=#> [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:f.ll.richmond@gmail.com)</a>
 <a href=#>[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/felipe-llach)
 <a href=#>[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/FLlach)</a>
+
+![FLlach estadisticas GitHub](https://github-readme-stats.vercel.app/api?username=FLlach&show_icons=true&theme=transparent)   
