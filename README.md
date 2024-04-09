@@ -32,14 +32,14 @@ Hi!, My name is Felipe Llach Richmond, Computer Science and Engineering student 
 <section align="center">
 <h2> Frameworks </h2>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=anaconda,eclipse,nodejs,npm">
+<img src="https://skillicons.dev/icons?i=nodejs,npm">
 </a>
 </section>
 
 <section align="center">
 <h2> Programas/Apps </h2>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode,blender,figma,ai,ps,matlab">
+<img src="https://skillicons.dev/icons?i=vscode,blender,figma,ai,ps,matlab,anaconda,eclipse&perline=4">
 </a>
 </section>
 
