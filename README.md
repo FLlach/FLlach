@@ -15,7 +15,7 @@ Hi!, My name is Felipe Llach Richmond, Computer Science and Engineering student 
 <section align="center">
 <h2> Lenguajes/Lenguages </h2>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,css,sass,java">
+<img src="https://skillicons.dev/icons?i=js,css,sass,java">
 </a>
 </section>
 <section align="center">
