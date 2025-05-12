@@ -5,6 +5,7 @@ Hola!, Mi nombre es Felipe Llach Richmond, estudiante de Ingeniería Civil Compu
 Hi!, My name is Felipe Llach Richmond, Computer Science and Engineering student at the UOH, Rancagua, Chile, passionate about learning programming lenguages, frameworks and new tools that further enhance the development of applications to achieve a better productivity and QoL of the people.
 
 
+Building cool stuff. Teaching smarter. Bridging code, circuits, and concepts.
 
 
 # Sobre mi / About Me
